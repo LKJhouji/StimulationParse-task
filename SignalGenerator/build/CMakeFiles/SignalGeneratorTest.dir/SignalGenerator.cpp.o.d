@@ -1,8 +1,8 @@
 CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o: \
- /root/houji_project/keju.li-SPTask/SignalGenerator/SignalGenerator.cpp \
+ /home/houji/桌面/SP-task/SignalGenerator/SignalGenerator.cpp \
  /usr/include/stdc-predef.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/SignalGenerator.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/../Value/SignalValue.h \
+ /home/houji/桌面/SP-task/SignalGenerator/SignalGenerator.h \
+ /home/houji/桌面/SP-task/SignalGenerator/../Value/SignalValue.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -55,8 +55,8 @@ CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o: \
  /usr/include/c++/11/bits/enable_special_members.h \
  /usr/include/c++/11/bits/unordered_map.h \
  /usr/include/c++/11/bits/erase_if.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/../SignalDescription/SignalDescriptionSet.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/../SignalDescription/SignalDescription.h \
+ /home/houji/桌面/SP-task/SignalGenerator/../SignalDescription/SignalDescriptionSet.h \
+ /home/houji/桌面/SP-task/SignalGenerator/../SignalDescription/SignalDescription.h \
  /usr/include/c++/11/memory /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
@@ -124,8 +124,8 @@ CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o: \
  /usr/include/c++/11/bits/atomic_base.h \
  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
  /usr/include/c++/11/backward/auto_ptr.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/../SignalDescription/SegmentSignalDescription.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/../SignalDescription/Segment.h \
+ /home/houji/桌面/SP-task/SignalGenerator/../SignalDescription/SegmentSignalDescription.h \
+ /home/houji/桌面/SP-task/SignalGenerator/../SignalDescription/Segment.h \
  /usr/include/c++/11/stdlib.h /usr/include/c++/11/cstdlib \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
@@ -191,6 +191,6 @@ CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/11/bits/opt_random.h \
  /usr/include/c++/11/bits/random.tcc /usr/include/c++/11/numeric \
  /usr/include/c++/11/bits/stl_numeric.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/../SignalDescription/SOSignalDescription.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/../SignalDescription/OperationSignalDescription.h \
- /root/houji_project/keju.li-SPTask/SignalGenerator/../SignalDescription/AssistOperation.h
+ /home/houji/桌面/SP-task/SignalGenerator/../SignalDescription/SOSignalDescription.h \
+ /home/houji/桌面/SP-task/SignalGenerator/../SignalDescription/OperationSignalDescription.h \
+ /home/houji/桌面/SP-task/SignalGenerator/../SignalDescription/AssistOperation.h

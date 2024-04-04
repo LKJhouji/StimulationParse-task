@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /root/houji_project/keju.li-SPTask/ParseXml
+CMAKE_SOURCE_DIR = /home/houji/桌面/SP-task/ParseXml
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /root/houji_project/keju.li-SPTask/ParseXml/build
+CMAKE_BINARY_DIR = /home/houji/桌面/SP-task/ParseXml/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ParseXmlTest.dir/depend.make
@@ -69,239 +69,239 @@ include CMakeFiles/ParseXmlTest.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ParseXmlTest.dir/flags.make
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o: /home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o: /home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o: /home/houji/桌面/SP-task/SignalDescription/Segment.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/Segment.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/Segment.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/Segment.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o: /home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o: /home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o: /home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o: /root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o -c /root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o: /home/houji/桌面/SP-task/TinyXml/tinystr.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o -c /home/houji/桌面/SP-task/TinyXml/tinystr.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/TinyXml/tinystr.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/TinyXml/tinystr.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o: /root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o -c /root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o: /home/houji/桌面/SP-task/TinyXml/tinyxml.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o -c /home/houji/桌面/SP-task/TinyXml/tinyxml.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/TinyXml/tinyxml.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/TinyXml/tinyxml.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o: /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o -c /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o: /home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o -c /home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o: /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o -c /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o: /home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o -c /home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o: /root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o -c /root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o: /home/houji/桌面/SP-task/Value/SignalGroupValue.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o -c /home/houji/桌面/SP-task/Value/SignalGroupValue.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/Value/SignalGroupValue.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/Value/SignalGroupValue.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.s
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o: /root/houji_project/keju.li-SPTask/Value/SignalValue.cpp
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o -MF CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o -c /root/houji_project/keju.li-SPTask/Value/SignalValue.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o: /home/houji/桌面/SP-task/Value/SignalValue.cpp
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o -MF CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o -c /home/houji/桌面/SP-task/Value/SignalValue.cpp
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/Value/SignalValue.cpp > CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.i
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/Value/SignalValue.cpp > CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.i
 
-CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/Value/SignalValue.cpp -o CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.s
+CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/Value/SignalValue.cpp -o CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.s
 
 CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
 CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o: ../ParseXml.cpp
 CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o -MF CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o -c /root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o -MF CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o -c /home/houji/桌面/SP-task/ParseXml/ParseXml.cpp
 
 CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp > CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/ParseXml/ParseXml.cpp > CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.i
 
 CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp -o CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/ParseXml/ParseXml.cpp -o CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.s
 
 CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o: CMakeFiles/ParseXmlTest.dir/flags.make
 CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o: ../ParseXmlTest.cpp
 CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o: CMakeFiles/ParseXmlTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o -MF CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o -c /root/houji_project/keju.li-SPTask/ParseXml/ParseXmlTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o -MF CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o.d -o CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o -c /home/houji/桌面/SP-task/ParseXml/ParseXmlTest.cpp
 
 CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/ParseXml/ParseXmlTest.cpp > CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/ParseXml/ParseXmlTest.cpp > CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.i
 
 CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/ParseXml/ParseXmlTest.cpp -o CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/ParseXml/ParseXmlTest.cpp -o CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.s
 
 # Object files for target ParseXmlTest
 ParseXmlTest_OBJECTS = \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o" \
-"CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o" \
+"CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o" \
 "CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o" \
 "CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o"
 
 # External object files for target ParseXmlTest
 ParseXmlTest_EXTERNAL_OBJECTS =
 
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o
-ParseXmlTest: CMakeFiles/ParseXmlTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o
+ParseXmlTest: CMakeFiles/ParseXmlTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o
 ParseXmlTest: CMakeFiles/ParseXmlTest.dir/ParseXml.cpp.o
 ParseXmlTest: CMakeFiles/ParseXmlTest.dir/ParseXmlTest.cpp.o
 ParseXmlTest: CMakeFiles/ParseXmlTest.dir/build.make
 ParseXmlTest: CMakeFiles/ParseXmlTest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable ParseXmlTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/houji/桌面/SP-task/ParseXml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable ParseXmlTest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ParseXmlTest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -313,6 +313,6 @@ CMakeFiles/ParseXmlTest.dir/clean:
 .PHONY : CMakeFiles/ParseXmlTest.dir/clean
 
 CMakeFiles/ParseXmlTest.dir/depend:
-	cd /root/houji_project/keju.li-SPTask/ParseXml/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /root/houji_project/keju.li-SPTask/ParseXml /root/houji_project/keju.li-SPTask/ParseXml /root/houji_project/keju.li-SPTask/ParseXml/build /root/houji_project/keju.li-SPTask/ParseXml/build /root/houji_project/keju.li-SPTask/ParseXml/build/CMakeFiles/ParseXmlTest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/houji/桌面/SP-task/ParseXml/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/houji/桌面/SP-task/ParseXml /home/houji/桌面/SP-task/ParseXml /home/houji/桌面/SP-task/ParseXml/build /home/houji/桌面/SP-task/ParseXml/build /home/houji/桌面/SP-task/ParseXml/build/CMakeFiles/ParseXmlTest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ParseXmlTest.dir/depend
 

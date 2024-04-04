@@ -42,7 +42,7 @@ Table of Contents
           * Modelica Association (https://modelica.org/association)
           * Nelson (https://nelson-numerical-software.github.io/nelson-website/)
           * Nils Jannasch (https://github.com/NJannasch)
-          * OpenMEEG ((http://openmeeg.github.io/)
+          * OpenMEEG (http://openmeeg.github.io/)
           * Scilab (http://www.scilab.org/)
           * Sébastien Villemot (https://github.com/svillemot)
           * SGI in support of Interactive Supercomputing, Inc.
@@ -116,7 +116,7 @@ Table of Contents
                 $ ./configure
                 $ make
                 $ make check
-                $ make i
+                $ make install
 
             If any of the tests in the testsuite fail, you should report the failure
             using the tracker (see section 1.4). You should attach the generated

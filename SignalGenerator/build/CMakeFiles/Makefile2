@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /root/houji_project/keju.li-SPTask/SignalGenerator
+CMAKE_SOURCE_DIR = /home/houji/桌面/SP-task/SignalGenerator
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /root/houji_project/keju.li-SPTask/SignalGenerator/build
+CMAKE_BINARY_DIR = /home/houji/桌面/SP-task/SignalGenerator/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/SignalGeneratorTest.dir/clean
 CMakeFiles/SignalGeneratorTest.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SignalGeneratorTest.dir/build.make CMakeFiles/SignalGeneratorTest.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SignalGeneratorTest.dir/build.make CMakeFiles/SignalGeneratorTest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16 "Built target SignalGeneratorTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16 "Built target SignalGeneratorTest"
 .PHONY : CMakeFiles/SignalGeneratorTest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SignalGeneratorTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles 16
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles 16
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SignalGeneratorTest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles 0
 .PHONY : CMakeFiles/SignalGeneratorTest.dir/rule
 
 # Convenience name for target.

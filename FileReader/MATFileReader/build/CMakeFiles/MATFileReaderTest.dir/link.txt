@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -fPIC -g -rdynamic CMakeFiles/MATFileReaderTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o CMakeFiles/MATFileReaderTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o CMakeFiles/MATFileReaderTest.dir/MATFileReader.cpp.o CMakeFiles/MATFileReaderTest.dir/MATFileReaderTest.cpp.o -o MATFileReaderTest  -lmatio 

@@ -17,7 +17,7 @@ public:
     void setId(std::string id) { id_ = id; }
     std::string getName() { return name_; }
     std::string getId() { return id_; }
-    SignalValue calculate(SignalValue& sv, double& stTime);
+    void calculate(SignalValue& sv, double& stTime);
     void printSignalDescription();
     double getDuration();
 private:

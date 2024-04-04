@@ -2,7 +2,7 @@
 #include "ParseXml.h"
 
 int main() {
-    ParseXml px("/root/houji_project/keju.li-SPTask/files/Stimulus1.sti");
+    ParseXml px("/home/houji/桌面/SP-task/files/Stimulus1.sti");
     SignalDescriptionSet sds = px.parse();
     sds.printSignalDescriptionSet();
     SignalGenerator sg(sds);

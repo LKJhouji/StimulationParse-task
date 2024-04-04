@@ -1,0 +1,3 @@
+/home/houji/桌面/SP-task/FileReader/STIReader/build/CMakeFiles/STIReaderTest.dir
+/home/houji/桌面/SP-task/FileReader/STIReader/build/CMakeFiles/edit_cache.dir
+/home/houji/桌面/SP-task/FileReader/STIReader/build/CMakeFiles/rebuild_cache.dir

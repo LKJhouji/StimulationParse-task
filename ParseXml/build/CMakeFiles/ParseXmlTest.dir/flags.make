@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/root/houji_project/keju.li-SPTask/ParseXml/. -I/root/houji_project/keju.li-SPTask/ParseXml/../SignalDescription -I/root/houji_project/keju.li-SPTask/ParseXml/../TinyXml -I/root/houji_project/keju.li-SPTask/ParseXml/../ParseXml -I/root/houji_project/keju.li-SPTask/ParseXml/../Value
+CXX_INCLUDES = -I/home/houji/桌面/SP-task/ParseXml/. -I/home/houji/桌面/SP-task/ParseXml/../SignalDescription -I/home/houji/桌面/SP-task/ParseXml/../TinyXml -I/home/houji/桌面/SP-task/ParseXml/../ParseXml -I/home/houji/桌面/SP-task/ParseXml/../Value
 
 CXX_FLAGS =  -std=c++11 -fPIC -g
 

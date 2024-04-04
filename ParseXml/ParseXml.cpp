@@ -35,7 +35,7 @@ void ParseXml::parseSignalDescription(TiXmlElement*& ele) {
     TiXmlElement* ele1 = ele->FirstChildElement();
     for (; ele1 != nullptr; ele1 = ele1->NextSiblingElement()) {
         if (strcmp(ele1->Value(), "SegmentSignalDescription") == 0) parseSegmentSignalDescription(ele1, sigDes);
-        else if (strcmp(ele1->Value(), "OperationSiganlDescription") == 0) parseOperationSignalDescription(ele1, sigDes);
+        else if (strcmp(ele1->Value(), "OperationSignalDescription") == 0) parseOperationSignalDescription(ele1, sigDes);
     }
     sigDesSet_.addSignalDescription(sigDes);
 }

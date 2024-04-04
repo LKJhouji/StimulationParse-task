@@ -12,7 +12,7 @@ void SignalDescription::printSignalDescription() {
     }
 }
 
-SignalValue SignalDescription::calculate(SignalValue& sv, double& stTime) {
+void SignalDescription::calculate(SignalValue& sv, double& stTime) {
     SignalValue tsv;
     for (int i = 0; i < signalDescription_.size(); i++) {
         signalDescription_[i]->calculate(tsv, stTime);

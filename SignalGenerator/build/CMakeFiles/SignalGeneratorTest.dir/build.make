@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /root/houji_project/keju.li-SPTask/SignalGenerator
+CMAKE_SOURCE_DIR = /home/houji/桌面/SP-task/SignalGenerator
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /root/houji_project/keju.li-SPTask/SignalGenerator/build
+CMAKE_BINARY_DIR = /home/houji/桌面/SP-task/SignalGenerator/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SignalGeneratorTest.dir/depend.make
@@ -69,255 +69,255 @@ include CMakeFiles/SignalGeneratorTest.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/SignalGeneratorTest.dir/flags.make
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o: /home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o: /home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o: /home/houji/桌面/SP-task/SignalDescription/Segment.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/Segment.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/Segment.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/Segment.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o: /home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o: /home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o: /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o -c /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o: /home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o -c /home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o: /root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o -c /root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o: /home/houji/桌面/SP-task/TinyXml/tinystr.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o -c /home/houji/桌面/SP-task/TinyXml/tinystr.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/TinyXml/tinystr.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/TinyXml/tinystr.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o: /root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o -c /root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o: /home/houji/桌面/SP-task/TinyXml/tinyxml.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o -c /home/houji/桌面/SP-task/TinyXml/tinyxml.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/TinyXml/tinyxml.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/TinyXml/tinyxml.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o: /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o -c /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o: /home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o -c /home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o: /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o -c /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o: /home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o -c /home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o: /root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o -c /root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o: /home/houji/桌面/SP-task/Value/SignalGroupValue.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o -c /home/houji/桌面/SP-task/Value/SignalGroupValue.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/Value/SignalGroupValue.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/Value/SignalGroupValue.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o: /root/houji_project/keju.li-SPTask/Value/SignalValue.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o -c /root/houji_project/keju.li-SPTask/Value/SignalValue.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o: /home/houji/桌面/SP-task/Value/SignalValue.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o -c /home/houji/桌面/SP-task/Value/SignalValue.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/Value/SignalValue.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/Value/SignalValue.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/Value/SignalValue.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/Value/SignalValue.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.s
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o: /root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o -c /root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o: /home/houji/桌面/SP-task/ParseXml/ParseXml.cpp
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o -c /home/houji/桌面/SP-task/ParseXml/ParseXml.cpp
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp > CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.i
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/ParseXml/ParseXml.cpp > CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.i
 
-CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp -o CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.s
+CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/ParseXml/ParseXml.cpp -o CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.s
 
 CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
 CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o: ../SignalGenerator.cpp
 CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o -c /root/houji_project/keju.li-SPTask/SignalGenerator/SignalGenerator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o -c /home/houji/桌面/SP-task/SignalGenerator/SignalGenerator.cpp
 
 CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalGenerator/SignalGenerator.cpp > CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalGenerator/SignalGenerator.cpp > CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.i
 
 CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalGenerator/SignalGenerator.cpp -o CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalGenerator/SignalGenerator.cpp -o CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.s
 
 CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o: CMakeFiles/SignalGeneratorTest.dir/flags.make
 CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o: ../SignalGeneratorTest.cpp
 CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o: CMakeFiles/SignalGeneratorTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o -c /root/houji_project/keju.li-SPTask/SignalGenerator/SignalGeneratorTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o -MF CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o.d -o CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o -c /home/houji/桌面/SP-task/SignalGenerator/SignalGeneratorTest.cpp
 
 CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/houji_project/keju.li-SPTask/SignalGenerator/SignalGeneratorTest.cpp > CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/houji/桌面/SP-task/SignalGenerator/SignalGeneratorTest.cpp > CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.i
 
 CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/houji_project/keju.li-SPTask/SignalGenerator/SignalGeneratorTest.cpp -o CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/houji/桌面/SP-task/SignalGenerator/SignalGeneratorTest.cpp -o CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.s
 
 # Object files for target SignalGeneratorTest
 SignalGeneratorTest_OBJECTS = \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o" \
-"CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o" \
+"CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o" \
 "CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o" \
 "CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o"
 
 # External object files for target SignalGeneratorTest
 SignalGeneratorTest_EXTERNAL_OBJECTS =
 
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/AssistOperation.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/OperationSignalDescription.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/Segment.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SegmentSignalDescription.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescription.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/SignalDescription/SignalDescriptionSet.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinystr.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxml.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlerror.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/TinyXml/tinyxmlparser.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalGroupValue.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/Value/SignalValue.cpp.o
-SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/root/houji_project/keju.li-SPTask/ParseXml/ParseXml.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinystr.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxml.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlerror.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/TinyXml/tinyxmlparser.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o
+SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/home/houji/桌面/SP-task/ParseXml/ParseXml.cpp.o
 SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/SignalGenerator.cpp.o
 SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/SignalGeneratorTest.cpp.o
 SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/build.make
 SignalGeneratorTest: CMakeFiles/SignalGeneratorTest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable SignalGeneratorTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable SignalGeneratorTest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SignalGeneratorTest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -329,6 +329,6 @@ CMakeFiles/SignalGeneratorTest.dir/clean:
 .PHONY : CMakeFiles/SignalGeneratorTest.dir/clean
 
 CMakeFiles/SignalGeneratorTest.dir/depend:
-	cd /root/houji_project/keju.li-SPTask/SignalGenerator/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /root/houji_project/keju.li-SPTask/SignalGenerator /root/houji_project/keju.li-SPTask/SignalGenerator /root/houji_project/keju.li-SPTask/SignalGenerator/build /root/houji_project/keju.li-SPTask/SignalGenerator/build /root/houji_project/keju.li-SPTask/SignalGenerator/build/CMakeFiles/SignalGeneratorTest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/houji/桌面/SP-task/SignalGenerator/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/houji/桌面/SP-task/SignalGenerator /home/houji/桌面/SP-task/SignalGenerator /home/houji/桌面/SP-task/SignalGenerator/build /home/houji/桌面/SP-task/SignalGenerator/build /home/houji/桌面/SP-task/SignalGenerator/build/CMakeFiles/SignalGeneratorTest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/SignalGeneratorTest.dir/depend
 

@@ -1,4 +1,4 @@
-# Install script for directory: /root/houji_project/keju.li-SPTask/SignalGenerator
+# Install script for directory: /home/houji/桌面/SP-task/SignalGenerator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/root/houji_project/keju.li-SPTask/SignalGenerator/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/houji/桌面/SP-task/SignalGenerator/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
