@@ -2,16 +2,19 @@
 #define _MAT_FILE_READER_H
 
 #include <matio.h>
+#include <string.h>
 #include <iostream>
 #include "SignalValue.h"
 
 class MATFileReader {
 public:
-    MATFileReader() : targetArray_(nullptr) {}
-    int Load(const char* matFile);
+    MATFileReader() {}
+    int Load(const char* matFile, const char* varName);
     SignalValue Get();
+    double GetFcnValue(double x);
+    void printFcnValue();
+    //void test();
 private:
-    double** targetArray_;
     SignalValue sv_;
 };
 

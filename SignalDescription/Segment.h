@@ -1,7 +1,7 @@
 #ifndef _SEGMENT_H
 #define _SEGMENT_H
 
-#define TIME_VAL 0.1
+#define TIME_VAL 0.01
 
 #include <stdlib.h>
 

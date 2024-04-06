@@ -2,7 +2,7 @@ CMakeFiles/MATFileReaderTest.dir/MATFileReaderTest.cpp.o: \
  /home/houji/桌面/SP-task/FileReader/MATFileReader/MATFileReaderTest.cpp \
  /usr/include/stdc-predef.h \
  /home/houji/桌面/SP-task/FileReader/MATFileReader/MATFileReader.h \
- /usr/include/matio.h /usr/include/matio_pubconf.h \
+ /usr/local/include/matio.h /usr/local/include/matio_pubconf.h \
  /usr/include/inttypes.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -61,10 +61,10 @@ CMakeFiles/MATFileReaderTest.dir/MATFileReaderTest.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
- /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
- /usr/include/c++/11/ios /usr/include/c++/11/iosfwd \
- /usr/include/c++/11/bits/stringfwd.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h /usr/include/string.h \
+ /usr/include/strings.h /usr/include/c++/11/iostream \
+ /usr/include/c++/11/ostream /usr/include/c++/11/ios \
+ /usr/include/c++/11/iosfwd /usr/include/c++/11/bits/stringfwd.h \
  /usr/include/c++/11/bits/memoryfwd.h /usr/include/c++/11/bits/postypes.h \
  /usr/include/c++/11/cwchar /usr/include/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \

@@ -17,4 +17,5 @@ private:
     SignalDescriptionSet sigDesSet_;
 };
 
+
 #endif // _STI_READER_H

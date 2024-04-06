@@ -19,5 +19,4 @@ private:
     std::string name_;
 };
 
-
 #endif // _SIGNAL_DESCRIPTION_SET_H
