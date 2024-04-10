@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/MF4ReaderTest.dir/MF4FileReader.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/MF4FileReader.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/MF4FileReaderTest.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/MF4FileReaderTest.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/AssistOperation.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/OperationSignalDescription.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/Segment.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/SegmentSignalDescription.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescription.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/SignalDescription/SignalDescriptionSet.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/Value/SignalGroupValue.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/Value/SignalValue.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/Common/m4DumpCL.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/Common/m4DumpCL.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/Common/md5.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/Common/md5.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/Common/mdFile.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/Common/mdFile.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/Common/mdf4.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/Common/mdf4.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/MDF4_SimpleReader/ImportMdf4.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/MDF4_SimpleReader/ImportMdf4.cpp.o.d"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/MDF4_SimpleReader/stdafx.cpp.o"
+  "CMakeFiles/MF4ReaderTest.dir/home/houji/桌面/SP-task/mdf4lib_linux/MDF4_SimpleReader/stdafx.cpp.o.d"
+  "MF4ReaderTest"
+  "MF4ReaderTest.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/MF4ReaderTest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
